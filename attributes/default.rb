@@ -1,5 +1,5 @@
-default['newrelic_sidekiq_agent']['version'] = '2.0.2'
-default['newrelic_sidekiq_agent']['repository'] = 'https://github.com/eksoverzero/newrelic_sidekiq_agent.git'
+default['newrelic_sidekiq_agent']['version'] = 'v0.1.0'
+default['newrelic_sidekiq_agent']['repository'] = 'https://github.com/secondimpression/newrelic_sidekiq_agent.git'
 default['newrelic_sidekiq_agent']['rvm_ruby'] = '2.1'
 default['newrelic_sidekiq_agent']['user'] = 'redis'
 default['newrelic_sidekiq_agent']['user_home'] = '/var/lib/redis'
